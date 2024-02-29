@@ -9,12 +9,14 @@ cout<<"Enter 1st number: "<<endl;
 cin>>first;
 cout<<"Enter 2nd number: "<<endl;
 cin>>sec;
-
-for(int i=first+1; i<sec; i++)
+//for(oIni,condition, iteration)
+for(int i = first; i<=sec; i++)
 {
    if(i%2==0)
         {
-            sum=sum+i;
+            //2 = 2 + 4
+            //2 
+            sum = sum + i; 
         }
 }
 cout<<"Sum of even numbers : "<<sum<<endl;

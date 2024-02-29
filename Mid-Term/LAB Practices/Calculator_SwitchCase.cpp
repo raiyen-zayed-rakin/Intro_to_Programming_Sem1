@@ -40,7 +40,7 @@ default:
 
 cout<<"Do you want try again?"<<endl;
 cin>>choice;
-}while(choice=='Y' || choice=='y');
+}while(choice =='Y' || choice=='y');
 
 
 

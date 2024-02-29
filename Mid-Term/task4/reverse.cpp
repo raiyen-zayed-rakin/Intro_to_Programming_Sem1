@@ -14,8 +14,9 @@ for(int i=0; i<N; i++){
 }
 cout<<"Reverse Order: "<<endl;
 for(int i=N-1; i>=0; i--){
-    cout<<arr[i]<<endl;
+    cout<<arr[i]<<" ";
 }
+cout<<endl;
 
 
 

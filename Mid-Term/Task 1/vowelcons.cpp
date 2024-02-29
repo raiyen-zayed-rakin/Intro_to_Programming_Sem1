@@ -11,9 +11,12 @@ if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u' || c=='A' || c=='E' || c=='I' 
 {
     cout<<"Vowel."<<endl;
 }
-else
+else if(c >= '0' && c <= '9')
 {
-    cout<<"Consonant."<<endl;
+    cout<<"Number"<<endl;
+}
+else{
+    cout<<"Consonent"<<endl;
 }
 // it is mandatory to use else when using else if.
 

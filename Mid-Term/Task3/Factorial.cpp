@@ -7,6 +7,7 @@ int n;
 cout<<"Enter a number for factorial :"<<endl;
 cin>>n;
 int fact=1;
+//5 54321
 for(int i=1; i<=n; i++){
     fact=fact*i;
 }
