@@ -1,6 +1,6 @@
 #include<iostream>
 #include<math.h>
-
+//Create a BMI calculator program that reads the user’s weight in kilogram and height inmeter. Then calculates and displays the user’s body massindex.
 using namespace std;
 
 int main(){

@@ -3,7 +3,9 @@
 #include<math.h>
 
 using namespace std;
-
+/*
+A mail order house sells five different products whose retail prices are: product 1 — BDT200.75, product 2—345.50, product 3— BDT 775.75, product 4— BDT 400.35 and product 5— BDT1200.75. Write a program that reads a series of pairs of numbers as follows:a.product number. (Hint: 1, 2, 3.. etc. are product number) b.quantity sold.
+*/
 int main(){
 
   int pro_no, sold;

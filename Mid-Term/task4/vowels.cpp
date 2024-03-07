@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//Write a C++ program to take N characters but only output the vowels from those characters. 
 int main(){
 int N;
 cout<<"Enter the size of the array: "<<endl;

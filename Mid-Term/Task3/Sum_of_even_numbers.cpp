@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//Write a program that take two integer numbers and display the sum of even numbers between thesetwo input numbers.First Number: 3Second Number: 10Sumof Even numbersbetween3 and 10 is:18
 int main(){
 int first,sec;
 int sum=0;

@@ -2,7 +2,7 @@
 #include<math.h>
 
 using namespace std;
-
+//Write a program that reads in two integers and determines and prints if the first is a multipleof the second. [Hint: Use the modulusoperator.]
 int main(){
  int num1, num2;
  cout<<"Enter num1: "<<endl;

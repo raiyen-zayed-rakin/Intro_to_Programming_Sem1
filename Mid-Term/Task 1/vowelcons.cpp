@@ -1,3 +1,6 @@
+/*
+Take any letter input through the keyboard. Write a program to find out whether it is a vowel or a consonant.
+*/
 #include<iostream>
 #include<math.h>
 using namespace std;

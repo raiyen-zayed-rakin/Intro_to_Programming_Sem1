@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//Take N Student marks as input and find the summation and average of the marks. 
 int main(){
 int N;
 cout<<"Enter the number of students: "<<endl;

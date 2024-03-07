@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//Take N integers as input and display Even and Odd for each of the integer. 
 int main(){
 int N;
 cout<<"Enter the size of the array: "<<endl;

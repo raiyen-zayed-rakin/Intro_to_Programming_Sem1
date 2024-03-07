@@ -2,7 +2,7 @@
 #include<math.h>
 
 using namespace std;
-
+//Write a program that reads two integer and determines and prints whether they are odd or even. Also find the maximum of twonumber.
 int main(){
 
  int num1,num2;

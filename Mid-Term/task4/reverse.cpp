@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//Take N numbers as input from user and print them in reverse order
 int main(){
 int N;
 cout<<"Enter the size of the array: "<<endl;

@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//Write a C++ program to find the smallest and second smallest elements in a given array of integer
 int main(){
 int N;
 cout<<"Enter the size of the array: "<<endl;
